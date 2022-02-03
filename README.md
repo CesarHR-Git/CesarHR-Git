@@ -1,9 +1,9 @@
 <h2 align="center">Hi :wave:, I'm Cesar Hidalgo 🧑🏻💻</h2>
 
->### About me
-![CESAR HIDALGO](https://user-images.githubusercontent.com/81395358/152410163-514b4f6a-b4d9-4488-8b40-d2ba92ae6159.gif)
+### About me
+![CESAR HIDALGO](https://user-images.githubusercontent.com/81395358/152432163-57ee1122-6ba3-4d8f-8f88-b223f25afa61.png)
 
->### Technical Skills 🛠️
+### Technical Skills 🛠️
 
 ![Java](https://img.shields.io/badge/-Java%20SE-red)
 ![CSharp](https://img.shields.io/badge/-CSharp-%238130a1)
@@ -21,6 +21,6 @@
 ![SqlServer](https://img.shields.io/badge/-SQL%20Server-%23b11e23)
 ![MongoDB](https://img.shields.io/badge/-Mongo%20DB-%2312924f)
 
->### Find me around the web 🌐 :
+### Find me around the web 🌐 :
 1. My website: [Portfolio](https://portfolio-cesar-hidalgo.herokuapp.com/home-en) 🖥️
 2. Connect to me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/cesar-hidalgo-rojas-626022200) 💼
