@@ -5,6 +5,8 @@
 
 ### Technical Skills 🛠️
 
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/81395358/152433454-596543bd-e015-4d4b-a26c-a8f1d3e7a232.png">
+
 ![Java](https://img.shields.io/badge/-Java%20SE-red)
 ![CSharp](https://img.shields.io/badge/-CSharp-%238130a1)
 <br>
