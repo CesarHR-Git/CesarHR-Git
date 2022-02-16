@@ -1,5 +1,3 @@
-<h2 align="center">Hi :wave:, I'm Cesar Hidalgo 🧑🏻💻</h2>
-
 ### About me
 ![CESAR HIDALGO](https://user-images.githubusercontent.com/81395358/152432163-57ee1122-6ba3-4d8f-8f88-b223f25afa61.png)
 
